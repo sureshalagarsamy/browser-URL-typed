@@ -40,11 +40,11 @@ HTTP request made from browsers are handled by a special software running on ser
 HTTP response starts with the returned status code from the server. Following is a very brief summary of what a status code denotes:
 
 ```
-	1xx indicates an informational message
-	2xx indicates success message
-	3xx redirects the client to another URL
-	4xx indicates client error
-	5xx indicates server error
+1xx indicates an informational message
+2xx indicates success message
+3xx redirects the client to another URL
+4xx indicates client error
+5xx indicates server error
 ```
 
 ```Step 7``` Browsers displays the html content
