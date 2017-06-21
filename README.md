@@ -48,3 +48,5 @@ HTTP response starts with the returned status code from the server. Following is
 ```
 
 ```Step 7``` Browsers displays the html content
+
+![screenshot](https://user-images.githubusercontent.com/6780840/27380412-9457d0b2-569c-11e7-81bc-31c9d3071a79.png)
